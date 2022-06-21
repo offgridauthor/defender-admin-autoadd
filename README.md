@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Demo - Auto-Add Contracts to Defender Admin
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Demo code to show how to automatically add newly created factory clone contracts to OpenZeppelin Defender Admin dashboard.
 
-Try running some of the following tasks:
+[View the complete tutorial](https://forum.openzeppelin.com/t/auto-add-factory-clones-to-defender-admin-dashboard/29825) here.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## Upcoming Events
+
+OpenZeppelin runs regular workshops and webinars, including on OpenZeppelin Defender and OpenZeppelin Contracts.
+
+[Register for upcoming events](https://blog.openzeppelin.com/ozevents/) on the website.
+
+## Learn more
+
+You can ask questions on the [OpenZeppelin Community Forum](https://forum.openzeppelin.com/).
