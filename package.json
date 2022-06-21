@@ -1,0 +1,36 @@
+{
+  "name": "defender-admin-autoadd",
+  "version": "1.0.0",
+  "description": "Demo code to show how to automatically add factory clone contracts to OpenZeppelin Defender Admin dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/offgridauthor/defender-admin-autoadd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/offgridauthor/defender-admin-autoadd/issues"
+  },
+  "homepage": "https://github.com/offgridauthor/defender-admin-autoadd#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-etherscan": "^3.1.0",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/contracts-upgradeable": "^4.6.0",
+    "@openzeppelin/hardhat-defender": "^1.7.0",
+    "@openzeppelin/hardhat-upgrades": "^1.19.0",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.9",
+    "hardhat": "^2.9.9"
+  }
+}
